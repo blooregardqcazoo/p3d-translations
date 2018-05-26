@@ -77,35 +77,35 @@
 					"button": "سحب",
 					"reinvest": "إعادة استثمار",
 					"warning": "هل ترغب في سحب مكافآت التحدي الخاصة بك؟ لا تقلق لا توجد رسوم ، و Eth بالفعل هو لك. ولكن إذا كنت تستمتع بنفسك (وطريقة سير الأمور) قد ترغب في الاعتراف بالجنون وتجربة ميزة إعادة الاستثمار. المزيد من العملات يعني أنك تحصل على حصة أكبر من جميع الرسوم المدفوعة على الإطلاق في العقد. إنها مثل مضاعفة الرهان، ولكن قد تحصل على الضعف، ولن تحصل على شيء.",
-					"confirm": "YES, TELL THE ROBOT IT'S MY PAYDAY.",
-					"deny": "NO, I LIKE WHERE THIS IS GOING."
+					"confirm": "نعم ، أخبر الروبوت أنه يوم الدفع.",
+					"deny": "لا ، يعجبني ما سيحدث."
 				},
 				"recent": {
-					"title": "Recent sell orders",
-					"date": "Date.",
-					"tx": "Tx.",
-					"address": "Address"
+					"title": "طلبات البيع الأخيرة",
+					"date": "التاريخ",
+					"tx": "المعاملة",
+					"address": "العنوان"
 				}
 			}
 		},
 		"transfer": {
-			"title": "Transfer tokens",
+			"title": "تحويل العملات",
 			"item": {
 				"transfer": {
-					"title": "Transfer P3D tokens",
-					"spend": "Tokens to send",
-					"recipient": "Wallet of the recipient",
-					"invalid": "Invalid wallet address...",
-					"empty": "Invalid amount of tokens...",
-					"button": "Transfer",
-					"hint": " 1). Remember, there's a flat 10% fee on all tokens transferred <br> 2). Your outstanding Gauntlet Rewards will be automatically withdrawn to your eth wallet when you transfer tokens. Don't freak out.<br> 3). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
+					"title": "تحويل عملات P3D",
+					"spend": "عدد العملات التي سيتم تحويلها",
+					"recipient": "محفظة المستلم",
+					"invalid": "عنوان المحفظة غير صالح ...",
+					"empty": "عدد العملات غير صالح ...",
+					"button": "تحويل",
+					"hint": "1). تذكر ، هناك رسوم 10 ٪ على جميع العملات المحولة <br> 2). سيتم سحب مكافآت التحدي الخاصة بك تلقائيًا إلى محفظتك الخاصة بك عندما تقوم بتحويل العملات. لا تفزع. <br> 3). كلما ارتفع سعر الغاز الذي تقدمه ، كلما أسرع عمال مناجم ETH في التقاط وتأكيد معاملتك."
 				},
 				"recent": {
-					"title": "Recent transfer orders",
-					"date": "Date.",
-					"tx": "Tx.",
-					"from": "From",
-					"to": "To"
+					"title": "طلبات التحويل الأخيرة",
+					"date": "التاريخ",
+					"tx": "المعاملة",
+					"from": "من",
+					"to": "إلى"
 				}
 			}
 		},
@@ -113,30 +113,30 @@
 			"title": "أرصدتي",
 			"item": {
 				"tokens": {
-					"title": "Tokens"
+					"title": "العملات"
 				},
 				"rewards": {
-					"title": "Rewards",
-					"reinvest": "(if reinvested)"
+					"title": "المكافآت",
+					"reinvest": "(إذا أعيد استثمارها)"
 				},
 				"portfolio": {
-					"title": "Portfolio growth",
-					"description": "The advanced charting module is currently in development."
+					"title": "نمو المحفظة",
+					"description": "وحدة الرسوم البيانية المتقدمة قيد التطوير حاليًا."
 				},
 				"actions": {
-					"buy": "Buy tokens",
-					"withdraw": "Withdraw",
-					"sell": "Sell tokens"
+					"buy": "شراء عملات",
+					"withdraw": "سحب",
+					"sell": "بيع عملات"
 				},
 				"configuration": {
-					"title": "Configuration",
-					"description": "Personalization settings will soon come here, inculding the much requested night-mode. Do you have any suggested features? <a href='https://discord.gg/wfG97Kt'>Please stop by in our own chat platform.</a>"
+					"title": "إعدادات",
+					"description": "ستأتي إعدادات التخصيص قريبًا ، بما في ذلك الوضع الليلي المطلوب كثيرًا. هل لديك أي ميزات مقترحة؟ <a href='https://discord.gg/wfG97Kt'>يرجى مشاركتنا من خلال منصة الدردشة الخاصة بنا.</a>"
 				},
 				"recent": {
-					"title": "My transaction history",
-					"date": "Date.",
-					"tx": "Tx.",
-					"event": "Event"
+					"title": "تاريخ معاملاتي",
+					"date": "التاريخ",
+					"tx": "المعاملة",
+					"event": "الحدث"
 				}
 			}
 		},
