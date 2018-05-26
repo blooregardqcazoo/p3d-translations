@@ -36,32 +36,32 @@
 			"title": "شراء العملات",
 			"item": {
 				"buy": {
-					"title": "اشتر عملات P3D",
+					"title": "شراء عملات P3D",
 					"spend": "كمية Ethereum التي سيتم إنفاقها",
 					"approx": "{{amount}} P3D تقريبا.",
 					"invalid": "أدخل رقما صحيحا.",
 					"empty": "اكتب رقمًا أعلاه للاطلاع الفوري على تقديرات الأسعار.",
-					"button": "اشتر",
+					"button": "شراء",
 					"hint": "1). كلما ارتفع سعر الغاز الذي تقدمه ، كلما أسرع عمال مناجم ETH في التقاط وتأكيد معاملتك."
 				},
 				"reinvest": {
-					"title": "Reinvest Gauntlet Rewards",
-					"button": "Reinvest!"
+					"title": "إعادة استثمار مكافآت التحدي",
+					"button": "إعادة استثمار!"
 				},
 				"recent": {
-					"title": "Recent buy orders",
-					"date": "Date.",
-					"tx": "Tx.",
-					"address": "Address"
+					"title": "طلبات الشراء الأخيرة",
+					"date": "التاريخ",
+					"tx": "المعاملة",
+					"address": "العنوان"
 				}
 			}
 		},
 		"sell": {
-			"title": "Sell tokens",
+			"title": "بيع العملات",
 			"item": {
 				"sell": {
-					"title": "Sell P3D tokens",
-					"spend": "Tokens to sell",
+					"title": "بيع عملات P3D",
+					"spend": "عدد العملات التي ",
 					"approx": "Approximately {{amount}} ETH.",
 					"invalid": "Type a valid number.",
 					"empty": "Type a number above to instantly see price estimations.",
