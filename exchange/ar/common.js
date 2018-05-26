@@ -41,7 +41,7 @@
 					"approx": "{{amount}} P3D تقريبا.",
 					"invalid": "أدخل رقما صحيحا.",
 					"empty": "اكتب رقمًا أعلاه للاطلاع الفوري على تقديرات الأسعار.",
-					"button": "شراء",
+					"button": "شراء!",
 					"hint": "1). كلما ارتفع سعر الغاز الذي تقدمه ، كلما أسرع عمال مناجم ETH في التقاط وتأكيد معاملتك."
 				},
 				"reinvest": {
@@ -61,22 +61,22 @@
 			"item": {
 				"sell": {
 					"title": "بيع عملات P3D",
-					"spend": "عدد العملات التي ",
-					"approx": "Approximately {{amount}} ETH.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Sell!",
-					"all": "All",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction.",
-					"warning": "Are you sure you want to sell tokens? Selling is admitting to yourself, and everyone else that your hands are no longer strong enough to play. The 10% fee on your sale will definitely appreciated by other holders though.",
-					"confirm": "YES, I HAVE WEAK HANDS.",
-					"deny": "NO, I'VE FOUND NEW STRENGTH."
+					"spend": "عدد العملات التي سيتم بيعها",
+					"approx": "{{amount}} ETH تقريبا.",
+					"invalid": "أدخل رقما صحيحا.",
+					"empty": "اكتب رقمًا أعلاه للاطلاع الفوري على تقديرات الأسعار.",
+					"button": "بيع!",
+					"all": "الكل",
+					"hint": "1). كلما ارتفع سعر الغاز الذي تقدمه ، كلما أسرع عمال مناجم ETH في التقاط وتأكيد معاملتك.",
+					"warning": "هل أنت متأكد من أنك تريد بيع العملات؟ إن البيع إقرار لنفسك، ولكل شخص آخر، بأن يديك لم تعد قوية بما يكفي للعب. سوف يقدر الآخرون رسوم عملية البيع هذه ال 10 ٪ بالتأكيد..",
+					"confirm": "نعم، لدي يد ضعيفة.",
+					"deny": "لا ، لقد وجدت قوة جديدة."
 				},
 				"withdraw": {
-					"title": "Outstanding Gauntlet Rewards",
-					"button": "Withdraw",
-					"reinvest": "Reinvest",
-					"warning": "Would you like to withdraw your Gauntlet rewards? Don't worry there's no fee, the Eth is already as good as yours. But if you're enjoying yourself (and the way things are going) you might want to admit insanity and try our reinvest feature. More tokens means you get a larger share of all fees that are ever paid into the contract. It's kinda like doubling down, but you might get double, and you won't get nothing.",
+					"title": "مكافآت التحدي الحالية",
+					"button": "سحب",
+					"reinvest": "إعادة استثمار",
+					"warning": "هل ترغب في سحب مكافآت التحدي الخاصة بك؟ لا تقلق لا توجد رسوم ، و Eth بالفعل هو لك. ولكن إذا كنت تستمتع بنفسك (وطريقة سير الأمور) قد ترغب في الاعتراف بالجنون وتجربة ميزة إعادة الاستثمار. المزيد من العملات يعني أنك تحصل على حصة أكبر من جميع الرسوم المدفوعة على الإطلاق في العقد. إنها مثل مضاعفة ، ولكن قد تحصل على ضعف ، ولن تحصل على شيء.",
 					"confirm": "YES, TELL THE ROBOT IT'S MY PAYDAY.",
 					"deny": "NO, I LIKE WHERE THIS IS GOING."
 				},
