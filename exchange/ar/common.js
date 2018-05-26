@@ -1,48 +1,48 @@
 {
 	"masthead": {
-		"holdings": "Holdings",
-		"balance": "{{balance}} ETH in contract"
+		"holdings": "الأرصدة",
+		"balance": "{{balance}} ETH في العقد"
 	},
 	"menu": {
 		"exchange" : [
-			"Exchange",
-			"Sell & Withdraw",
-			"Transfer",
-			"Holdings"
+			"تداول",
+			"بيع وسحب",
+			"تحويل",
+			"الأرصدة"
 		],
-		"staking": "Staking & Masternode",
-		"news": "News",
-		"chat": "Chat",
-		"explorer": "Explorer"
+		"staking": "المراهنة والعقدة الرئيسية",
+		"news": "الأخبار",
+		"chat": "المحادثة",
+		"explorer": "المستكشف"
 	},
 	"notifications": {
-		"loading": "Loading...",
-		"cancelled": "Transaction was cancelled by the user.",
-		"error": "An error occured",
-		"withdrawalSubmitted": "Withdrawal request has been transmitted to the blockchain. Awaiting confirmation..", 
-		"sellSubmitted": "Sell order has been transmitted to the blockchain. Awaiting confirmation..",
-		"sellConfirmed": "Your P3D token sell order has been confirmed by the blockchain! You succesfully sold {{tokens}} P3D tokens for {{eth}} ETH.",
-		"sellExternal": "Someone else just sold {{tokens}} P3D tokens for {{eth}} ETH.",
-		"buySubmitted": "Buy order has been transmitted to the blockchain. Awaiting confirmation..",
-		"buyConfirmed": "Your P3D token purchase order has been confirmed by the blockchain! You succesfully bought {{tokens}} P3D tokens with {{eth}} ETH.",
-		"buyExternal": "Someone else just bought {{tokens}} P3D tokens with {{eth}} ETH.",
-		"transferSubmitted": "Transfer order has been transmitted to the blockchain. Awaiting confirmation..",
-		"transferConfirmed": "Your P3D token transfer order has been confirmed by the blockchain! You succesfully transfered {{tokens}} P3D tokens.",
-		"transferExternal": "Someone else just transferred {{tokens}} P3D tokens."
+		"loading": "جار التحميل...",
+		"cancelled": "تم إلغاء المعاملة من قبل المستخدم.",
+		"error": "حدث خطأ",
+		"withdrawalSubmitted": "تم إرسال طلب السحب إلى blockchain. بانتظار التأكيد..", 
+		"sellSubmitted": "تم إرسال أمر البيع إلى blockchain. بانتظار التأكيد..",
+		"sellConfirmed": "لقد تم تأكيد طلب بيع P3D من خلال blockchain! لقد بعت بنجاح {{tokens}} P3D مقابل {{eth}} ETH.",
+		"sellExternal": "شخص آخر باع للتو {{tokens}} P3D مقابل {{eth}} ETH.",
+		"buySubmitted": "لقد تم إرسال أمر الشراء إلى blockchain. بانتظار التأكيد..",
+		"buyConfirmed": "لقد تم تأكيد طلب شراء P3D من خلال blockchain! لقد اشتريت بنجاح {{tokens}} P3D مقابل {{eth}} ETH.",
+		"buyExternal": "شخص آخر اشترى للتو {{tokens}} P3D مقابل {{eth}} ETH.",
+		"transferSubmitted": "تم إرسال أمر التحويل إلى blockchain. بانتظار التأكيد..",
+		"transferConfirmed": "لقد تم تأكيد طلب تحويل P3D من خلال blockchain! لقد حولت بنجاح {{tokens}} P3D.",
+		"transferExternal": "شخص آخر حول للتو {{tokens}} P3D."
 	},
-	"footer": "This is an entertainment platform, not an investment platform, are you not entertained?",
+	"footer": "هذه منصة ترفيهية، وليست منصة استثمارية، ألم تستمتع بعد؟",
 	"pages": {
 		"purchase": {
-			"title": "Purchase tokens",
+			"title": "شراء العملات",
 			"item": {
 				"buy": {
-					"title": "Buy P3D tokens",
-					"spend": "Ethereum to spend",
-					"approx": "Approximately {{amount}} P3D tokens.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Purchase",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
+					"title": "اشتر عملات P3D",
+					"spend": "كمية Ethereum التي سيتم إنفاقها",
+					"approx": "{{amount}} P3D تقريبا.",
+					"invalid": "أدخل رقما صحيحا.",
+					"empty": "اكتب رقمًا أعلاه للاطلاع الفوري على تقديرات الأسعار.",
+					"button": "اشتر",
+					"hint": "1). كلما ارتفع سعر الغاز الذي تقدمه ، كلما أسرع عمال مناجم ETH في التقاط وتأكيد معاملتك."
 				},
 				"reinvest": {
 					"title": "Reinvest Gauntlet Rewards",
@@ -110,7 +110,7 @@
 			}
 		},
 		"holdings": {
-			"title": "My Holdings",
+			"title": "أرصدتي",
 			"item": {
 				"tokens": {
 					"title": "Tokens"
