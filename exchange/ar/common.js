@@ -141,28 +141,28 @@
 			}
 		},
 		"staking": {
-			"title": "Staking",
+			"title": "المراهنة",
 			"item": {
 				"description": {
-					"title": "Masternodes...",
+					"title": "العقد الرئيسية...",
 					"columns": [
 						{
-							"title": "Expand the Network!",
-							"text": "If your wallet holds 5 tokens, the contract generates a link to your masternode for you!<br><br> Whenever someone visits the site via this unique link, they have your masternode stored in a cookie that tracks all purchases of P3D they make, now and in the future."
+							"title": "قم بتوسيع الشبكة!",
+							"text": "إذا كانت محفظتك تحمل 5 عملات ، فإن العقد يولِّد رابطًا لعقدتك الرئيسية من أجلك! <br> <br> كلما زار شخص ما الموقع عبر هذا الرابط الفريد ، فإنه يتم تخزين عقدتك الرئيسية في ملف تعريف الارتباط الذي يتتبع جميع مشتريات P3D التي يقوم بها ، الأن و في المستقبل."
 						},
 						{
-							"title": "What's in it for me?",
-							"text": "<b>Ethereum!</b> Whenever someone purchases with your masternode link, <strong>you instantly receive 33% of the buy-in-fees they would otherwise pay to the contract, in ETH</strong> - no questions asked, no hassle."
+							"title": "ماذا أستفيد؟",
+							"text": "<b> Ethereum! </ b> عندما يشتري شخص ما عن طريق رابط عقدتك الرئيسية الخاص بك ، <strong> تحصل على الفور على 33٪ من رسوم الشراء التي كان سيدفعها بخلاف ذلك للعقد ، في ETH </ strong> - وبدون أسئلة ، بدون مشاكل."
 						}
 					]
 				},
 				"masternode": {
-					"title": "My masternode link",
-					"link": "Your unique masternode link is...",
-					"pointers": "General pointers for expanding your own network:",
+					"title": "رابط عقدتي الرئيسية",
+					"link": "رابط عقدتك الرئيسية الفريد هو...",
+					"pointers": "إرشادات عامة لتوسيع الشبكة الخاصة بك:",
 					"list": [
-						"Try to approach members in communities you're familiar with",
-						"Talk about powh.io on forums in your own language for maximum potential.",
+						"حاول الاتصال بالأعضاء في المجتمعات التي تعرفها",
+						"تحدث عن powh.io في المنتديات بلغتك للحصول على أقصى إمكانات.",
 						"Apply the <a href='https://powh.io/shill-kit.html'>shill-kit, it's designed to make people click your link!</a>",
 						"Be honest. Share the concept behind PoWH and how you feel about the project.",
 						"Don't lie or promise guaranteed returns.",
