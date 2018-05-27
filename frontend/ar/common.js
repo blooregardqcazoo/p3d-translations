@@ -2,40 +2,40 @@
 	"masthead": {
 		"slider": [{
 				"headings": [
-					"A blockchain managed,",
-					"smart-contract economy",
-					"in three dimensions"
+					"يديره البلوكتشين,",
+					"اقتصاد التعاقد الذكي",
+					"في ثلاثة أبعاد"
 				],
-				"sub": "The first token backed directly by Ethereum is also its most popular Dapp. (Source: Dappradar.com)",
-				"button": "Test your grip"
+				"sub": "العملة الأولى المدعومة مباشرة من قبل Ethereum التي هي أيضا التطبيق الموزع الأكثر شعبية. (المصدر: Dappradar.com)",
+				"button": "اختبر قوة قبضتك"
 			},
 			{
 				"headings": [
-					"You get a cut",
-					"Of every exchange fee"
+					"تحصل على حصة",
+					"من كل رسم للصرف"
 				],
-				"sub": "Volume based income, kinda like UBI, but less of a joke."
+				"sub": "الدخل على أساس حجم التداول ، تقريبا مثل فكرة الدخل الأساسي الشامل ، ولكن أقل سخافة."
 			},
 			{
 				"headings": [
-					"Mine Weak Hands",
-					"Not the Blockchain"
+					"نقًب الأيدي الضعيفة",
+					"وليس البلوكتشين"
 				],
-				"sub": "Trust us, way easier."
+				"sub": "ثق بنا ، إنه أسهل بكثير."
 			},
 			{
 				"headings": [
-					"Share your Masternode",
-					"Build your own Network"
+					"شارك عقدتك الرئيسية",
+					"ابنِ شبكتك الخاصة بك"
 				],
-				"sub": "Trust us, way easier."
+				"sub": "ثق بنا ، إنه أسهل بكثير."
 			},
 			{
 				"headings": [
-					"Play with a 3D Ecosystem",
-					"Enjoy multi dimensional gains"
+					"العب مع بيئة ثلاثية الأبعاد",
+					"استمتع بمكاسب متعددة الأبعاد"
 				],
-				"sub": "Only normal losses though, we're working on that one."
+				"sub": "الخسائر فقط عادية إلا أننا نعمل على ذلك."
 			}
 		]
 	},
