@@ -76,7 +76,7 @@
 					"title": "مكافآت التحدي الحالية",
 					"button": "سحب",
 					"reinvest": "إعادة استثمار",
-					"warning": "هل ترغب في سحب مكافآت التحدي الخاصة بك؟ لا تقلق لا توجد رسوم ، و Eth بالفعل هو لك. ولكن إذا كنت تستمتع بنفسك (وطريقة سير الأمور) قد ترغب في الاعتراف بالجنون وتجربة ميزة إعادة الاستثمار. المزيد من العملات يعني أنك تحصل على حصة أكبر من جميع الرسوم المدفوعة على الإطلاق في العقد. إنها مثل مضاعفة الرهان، ولكن قد تحصل على الضعف، ولن تحصل على شيء.",
+					"warning": "هل ترغب في سحب مكافآت التحدي الخاصة بك؟ لا تقلق لا توجد رسوم ، و Eth بالفعل هو لك. ولكن إذا كنت تستمتع بنفسك (وطريقة سير الأمور) قد ترغب في الاعتراف بالجنون وتجربة ميزة إعادة الاستثمار. المزيد من العملات يعني أنك تحصل على حصة أكبر من جميع الرسوم المدفوعة على الإطلاق في العقد. إنها مثل مضاعفة الرهان، ولكن قد تحصل على الضعف، وقد لا تحصل على شيء.",
 					"confirm": "نعم ، أخبر الروبوت أنه يوم الدفع.",
 					"deny": "لا ، يعجبني ما سيحدث."
 				},
@@ -163,28 +163,28 @@
 					"list": [
 						"حاول الاتصال بالأعضاء في المجتمعات التي تعرفها",
 						"تحدث عن powh.io في المنتديات بلغتك للحصول على أقصى إمكانات.",
-						"Apply the <a href='https://powh.io/shill-kit.html'>shill-kit, it's designed to make people click your link!</a>",
-						"Be honest. Share the concept behind PoWH and how you feel about the project.",
-						"Don't lie or promise guaranteed returns.",
-						"Don't simply spam your masternode link. Talk about the project instead.",
-						"Failure to oblige to the above rules may result in suspension of your masternode link.",
-						"The masternode staking requirement may change over time, so make sure to reinvest your dividends.",
-						"Just in case you're feeling clever, using your own masternode link doesn't work"
+						"استخدم <a href='https://powh.io/shill-kit.html'>shill-kit ، الذي صُمم لجعل الأشخاص ينقرون على رابطك! </a>",
+						"كن صادقا. شارك المفهوم وراء PoWH وكيف تشعر حيال المشروع.",
+						"لا تكذب أو تعد بأرباح مضمونة.",
+						"لا تزعج أحدا بإرسال رابط عقدتك الرئيسية الخاص بك بالبريد غير المرغوب. تحدث عن المشروع بدلا من ذلك.",
+						"قد يؤدي عدم الالتزام بالقواعد المذكورة أعلاه إلى تعليق رابط عقدتك الرئيسية الخاص بك.",
+						"قد يتغير متطلب المراهنة بالعقدت الرئيسية  مع مرور الوقت ، لذلك تأكد من إعادة استثمار أرباحك.",
+						"فقط في حالة شعورك بالذكاء: لا يمكن استخدام رابط عقدتك الرئيسية لطلباتك الخاصة بك"
 					]
 				},
 				"tracker": {
-					"title": "tracking views...",
-					"text": "Total masternode visits <br>(Not working yet)"
+					"title": "الاستعراضات تتبع ...",
+					"text": "مجموع زيارات عقدتك الرئيسية <br> (لا يعمل بعد)"
 				},
 				"earnings": {
-					"text": "Outstanding masternode earnings"
+					"text": "أرباح عقدتك الرئيسية الحالية"
 				},
 				"recent": {
-					"title": "Your Masternode Conversions",
-					"date": "Date.",
-					"tx": "Tx.",
-					"address": "Address",
-					"profit": "Profit"
+					"title": "تحويلات عقدتك الرئيسية",
+					"date": "التاريخ",
+					"tx": "المعاملة",
+					"address": "العنوان",
+					"profit": "الربح"
 				}
 			}
 		}
