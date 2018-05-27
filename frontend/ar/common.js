@@ -71,15 +71,15 @@
 		{
 			"title": "الامدادات = القيمة",
 			"content": [
-				"<b>For each token added or removed from circulation the price of the next token increases or decreases automatically</b> by a fractional amount of ETH (about .0000001 eth).",
-				"When people buy, your tokens are worth slightly more, when they sell, slightly less. The exchange handles this for you, no need to think about price!",
-				"Gotta have a little sadness every once in a while so you know when the good times come."
+				"<b>لكل عملة مضافة أو تمت إزالتها من التداول ، يزداد أو ينقص سعر العملة التالية تلقائيًا بمقدار كسور من ETH (حوالي 0000001 eth).",
+				"عندما يشتري الناس ، تكون قيمة العملات الخاصة بك أكثر بقليل ، وعند بيعها ، تقل قليلاً. العقد يعالج هذا لك ، لا حاجة للتفكير في السعر!",
+				"فلابد من القليل من الحزن بين الحين والآخر حتى تعرف متى تأتي الأوقات الجيدة."
 			]
 		},
 		{
-			"title": "MINING <i>(See snek diagram)</i>",
+			"title": "التنقيب <i> (انظر مخطط snek)</i>",
 			"content": [
-				"The Token's namesake is a feature we lovingly call the 'Proof of Weak Hands ethereum mining algorithm'",
+				"إن الاسم المميز للعملة هو ميزة نحب أن نطلق عليها اسم 'إثبات خوارزمية تنقيب الأيدي الضعيفة'",
 				"Simply put, when someone chooses to buy, sell or trade tokens, a 10% transaction fee is applied. That fee, proof of that trader's weak hands, is split across all tokens currently in circulation as a reward to those holding them. Buyers' newly-purchased tokens are added to circulation before the fee is allocated.",
 				"Anyone who holds tokens can withdraw their share of those earnings anytime, in ETH from the smart-contract pool, no fee attached.",
 				"You see that cute snek? He snatches up rewards for you on every trade, No matter what the token price does!"
