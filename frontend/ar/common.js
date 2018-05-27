@@ -40,36 +40,36 @@
 		]
 	},
 	"explanation": {
-		"header": "How does that work?",
-		"lead": "Every trade, buy or sell, has a 10% flat transaction fee applied.",
-		"hover": "Proof of Weak Hands",
-		"bold": "Instead of this going to the exchange,<br> the fee is <i>split between all currently held tokens!</i>",
-		"more": "10% of all volume this cryptocurrency ever experiences, is set aside for you the token holders, as ethereum rewards that you can instantly withdraw whenever you'd like.",
-		"bottom": "Completely decentralized, Humans can't shut it down."
+		"header": "كيف يعمل هذا؟",
+		"lead": "كل عملية تداول أو شراء أو بيع ، تطبق عليها رسوم معاملات ثابتة بنسبة 10٪.",
+		"hover": "إثبات ضعف الأيدي",
+		"bold": "بدلًا من الذهاب إلى البورصة ، تقسم الرسوم بين جميع العملات التي يتم قبضها حاليًا!</i>",
+		"more": "يتم تخصيص 10٪ من الحجم الكلي للمعاملات على العملة لكل قابضي العملات ، كمكافآت Ethereum يمكنك سحبها على الفور متى شئت.",
+		"bottom": "غير مركزية بالكامل ، لا يستطيع البشر إغلاقها."
 	},
 	"details": [{
-			"title": "OPEN SOURCE",
+			"title": "مفتوحة المصدر",
 			"content": [
-				"Every ethereum transaction is handled by a piece of unchangable blockchain programming known as a smart-contract.",
-				"No need to fear, you're only entrusting your hard-earned ETH to <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>an algorithmic robot accountant</a></b> running on a decentralized blockchain network created by <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>a russian madman worth billions</a></b>, enforced by subsidized Chinese GPU farms that are consuming <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>an amount of electricity larger than most third-world countries</a></b>, sustaining an exchange that runs without any human involvement for as long as the ethereum network exists",
-				"Welcome to cryptocurrency.",
-				"Your tokens are safe, or somebody would be yelling at us by now."
+				"يتم التعامل مع كل معاملة Ethereum من خلال قطعة من البرمجة لا يمكن تغييرها في البلوكتشين المعروفة باسم العقد الذكي.",
+				"لا داعي للخوف ، فأنت تقوم فقط بتوكيل ETH الذي حصلت عليه بجهدك ل <b> <a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'> محاسب روبوت خوارزمي </a> </ b> يعمل على شبكة بلوكتشين غير مركزية تم إنشاؤها بواسطة <b> <a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'> رجل مجنون روسي ملياردير</ b> </a> ، يتم فرضها بواسطة مزارع GPU الصينية المدعومة والتي تستهلك <b> <a class=' href='https://digiconomist.net/ethereum-energy-consumption'> كمية من الكهرباء أكبر من معظم بلدان العالم الثالث </a> </ b> يحافظ على تبادل يتم تشغيله دون أي تدخل بشري طالما أن شبكة ethereum موجودة",
+				"مرحبًا بك في عالم العملات المشفرة.",
+				"عملاتك الخاصة بك آمنة ، وإلا فإن شخصا ما لكان يصيح علينا الآن."
 			]
 		},
 		{
-			"title": "SMART EXCHANGE",
+			"title": "منصة تداول ذكية",
 			"content": [
-				"To facilitate a smooth entry into this autonomously managed volumetric-reward insanity, we've created our own decentralized exchange to allow you to trade and track your tokens automatically."
+				"لتسهيل الدخول إلى هذا الجنون الحجمي والمكافآت ذاتية الإدارة ، قمنا بإنشاء منصة التبادل اللامركزي الخاصة بنا للسماح لك بالتداول وتتبع عملاتك الخاصة بك تلقائيًا."
 			],
 			"list": [
-				"Track the token's trade volume, and your projected income from exchange fees.",
-				"Laugh at all the other idiots putting ETH into this madness",
-				"Stop laughing because that's a lot of ETH",
-				"<b>Buy more</b> <i>(fomo back in)</i>"
+				"تتبع حجم تداول العملات ، والدخل المتوقع من رسوم الصرف.",
+				"اضحك على جميع الأغبياء الآخرين الذين يضعون ETH في هذا الجنون",
+				"توقف عن الضحك لأن ذلك الكثير من ETH",
+				"<b> اشترِ المزيد </ b> <i> (وسارع لكيلا تفوتك الفرصة) </ i>"
 			]
 		},
 		{
-			"title": "SUPPLY = VALUE",
+			"title": "الامدادات = القيمة",
 			"content": [
 				"<b>For each token added or removed from circulation the price of the next token increases or decreases automatically</b> by a fractional amount of ETH (about .0000001 eth).",
 				"When people buy, your tokens are worth slightly more, when they sell, slightly less. The exchange handles this for you, no need to think about price!",
