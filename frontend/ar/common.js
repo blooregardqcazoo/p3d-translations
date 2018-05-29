@@ -80,25 +80,25 @@
 			"title": "التنقيب <i> (انظر مخطط snek)</i>",
 			"content": [
 				"إن الاسم المميز للعملة هو ميزة نحب أن نطلق عليها اسم 'إثبات خوارزمية تنقيب الأيدي الضعيفة'",
-				"Simply put, when someone chooses to buy, sell or trade tokens, a 10% transaction fee is applied. That fee, proof of that trader's weak hands, is split across all tokens currently in circulation as a reward to those holding them. Buyers' newly-purchased tokens are added to circulation before the fee is allocated.",
-				"Anyone who holds tokens can withdraw their share of those earnings anytime, in ETH from the smart-contract pool, no fee attached.",
-				"You see that cute snek? He snatches up rewards for you on every trade, No matter what the token price does!"
+				"ببساطة ، عندما يختار شخص ما شراء أو بيع أو تداول عملات ، يتم تطبيق رسوم معاملات بنسبة 10٪. هذا الرسم ، دليل على ضعف يد المتداولين ، يتم توزيعها على جميع العملات التي يتم تداولها حالياً كمكافأة لأولئك الذين يحتجزونها. يتم إضافة العملات المشتراة حديثًا إلى التداول قبل تخصيص الرسوم.",
+				"يمكن لأي شخص يحمل العملات سحب حصته من ETH من تلك الأرباح في أي وقت ، من العقد الذكي ، دون رسوم.",
+				"ترى تلك الأفعى اللطيفة snek؟ انها تخطف المكافآت لك من كل معاملة ، بغض النظر عن سعر العملة!"
 			]
 		},
 		{
-			"title": "STAKING",
+			"title": "المراهنة",
 			"content": [
-				"In addition to mining, you can stake 5 of your own tokens to create <b>the first ethereum masternodes; Ever.</b>",
-				"Owning a masternode gives you a unique link to our website that the smart contract recognizes, anyone buying into the contract via your link has 33% of all fees they would oherwise pay into the contract, directed to you instead as instant ethereum gains.",
-				"This is the <font color='009f00'>active-gains</font> component of our contract, we let you build your own network that rewards you!",
-				"Yes, our staking and mining systems are comedic jabs at cryptocurrency as a whole, they're also immensely more fun, <b>and reward in (ETH) instead of something that 'may' have value later.</b>"
+				"بالإضافة إلى التنقيب ، يمكنك المراهنة ب 5 من العملات الخاصة بك لإنشاء <b> أول عقد رئيسية للإيثيريوم على الإطلاق. </ B>",
+				"يمنحك امتلاكك عقدة رئيسية رابطا فريدًا لموقعنا على الويب يعترف به العقد الذكي ، حيث يوجه إليك كمكاسب فورية 33٪ من جميع الرسوم التي سيدفعها أي شخص يشتري من العقد عبر رابطك، بدلاً من ذلك أن تذهب للعقد.",
+				"هذا هو جزء <font color = '009f00'> المكاسب النشطة </ font> في عقدنا ، نتيح لك إنشاء شبكتك الخاصة التي تكافئك!",
+				"نعم ، أنظمة المراهنة والتنقيب لدينا هي فكاهتنا الكوميدية في العملات المشفرة ككل ، وهي أيضا أكثر متعة ، ومكافأة في (ETH) بدلا من شيء 'قد يكون' له قيمة لاحقا.</b>"
 			]
 		},
 		{
-			"title": "WITHDRAW ANYTIME",
+			"title": "السحب في أي وقت",
 			"content": [
-				"That Smart contract <i>(your new robo accounting buddy)</i> holds all ethereum ever put into purchasing these tokens, and <b> will gleefully give you all ethereum you are owed</b> whenever you want to withdraw , or dump your tokens. You weak handed fool.",
-				"The robot is also indifferent to the plight of man, cannot be stopped, shut down, or ended without the death of the ethereum network itself."
+				"هذا العقد الذكي <i> (صاحبك الروبوت الجديد الخاص بك) </ i> يحمل كل الإثيريوم الذي تم صرفه لشراء هذه العملات ، و <b> سوف يعطيك بكل سرور كل ما يدين لك به أنت </ b> عندما تريد السحب ، أو تفريغ جعبتك من العملات الخاصة بك. يا ضعيف اليدين الأحمق.",
+				"كما أن الروبوت غير مكترث بمحنة الإنسان ، ولا يمكن إيقافه ، أو إطفاؤه ، أو إنهاؤه دون موت شبكة الإيثرويوم نفسها."
 			]
 		},
 		{
