@@ -125,17 +125,17 @@
 				},
 				{
 					"header": "عملة جادة بطريقتها الهزلية الخاصة",
-					"content": "اطلع على رمزها اللطيف Snek تمثل مستقبلك المالي."
+					"content": "اطلع على رمزها اللطيف Snek الذي يمثل مستقبلك المالي."
 				}
 
 			]
 		}
 	],
 	"stats": {
-		"balance": "ETH IN CONTRACT",
-		"transactions": "TRANSACTIONS",
-		"volume": "AVERAGE 24 HR VOLUME",
-		"memes": "MEMES/HR"
+		"balance": "ETH في العقد",
+		"transactions": "المعاملات",
+		"volume": "متوسط حجم التداول اليومي",
+		"memes": "معدل الميمات في الساعة"
 	},
 	"cta": {
 		"top": "TRY OUR DECENTRALIZED EXCHANGE",
