@@ -102,30 +102,30 @@
 			]
 		},
 		{
-			"title": "<b>SPARKNOTES</b>",
+			"title": "<b>الملخص</b>",
 			"list": [{
-					"header": "Managed by a smart contract entirely",
-					"content": "No human involvement in managing the ethereum, at all. Period."
+					"header": "يدار تماما من قبل عقد ذكي",
+					"content": "لا يوجد أي تدخل بشري في إدارة الإيثرويوم، على الإطلاق."
 				},
 				{
-					"header": "Automatic pricing",
-					"content": "Value is directly related to how many tokens exist at any time."
+					"header": "التسعير التلقائي",
+					"content": "ترتبط القيمة مباشرة بعدد العملات الموجودة في أي وقت."
 				},
 				{
-					"header": "Volume based earning",
-					"content": "10% of all volume is taken as fees, and is automatically split out as Eth to all token holders."
+					"header": "الكسب على أساس حجم التداول",
+					"content": "يتم احتساب 10٪ من إجمالي حجم التداول كرسوم ، ويتم تقسيمها تلقائيًا كـ Eth إلى جميع حاملي العملات."
 				},
 				{
-					"header": "Active-income Staking",
-					"content": "Masternode system allows you to recruit more and get instant ETH rewards. Plus everyone gains from the volume!"
+					"header": "مراهنة الدخل النشط",
+					"content": "نظام العقد الرئيسية يسمح لك بتجنيد المزيد والحصول على مكافآت Eth الفورية. والجميع يربح من حجم التداول!"
 				},
 				{
-					"header": "Not a 'Concept' token",
-					"content": "Each token has intrinsic value, as every token is backed by the eth already in the contract <i>(try to find another crypto that does this).</i>"
+					"header": "ليست مجرد عملة رمزية",
+					"content": "كل عملة لها قيمة جوهرية ، مدعومة بـ Eth بالفعل في العقد <i> (حاول العثور على عملة تشفيرية أخرى تقوم بذلك).</i>"
 				},
 				{
-					"header": "Serious in all the wrong ways",
-					"content": "See cute snek mascot representing your financial future."
+					"header": "عملة جادة بطريقتها الهزلية الخاصة",
+					"content": "اطلع على رمزها اللطيف Snek تمثل مستقبلك المالي."
 				}
 
 			]
