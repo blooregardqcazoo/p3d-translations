@@ -138,20 +138,20 @@
 		"memes": "معدل الميمات في الساعة"
 	},
 	"cta": {
-		"top": "TRY OUR DECENTRALIZED EXCHANGE",
-		"bottom": "START NOW!"
+		"top": "جرب منصتنا اللامركزية للتداول",
+		"bottom": "ابدأ الآن!"
 	},
 	"points": [{
-			"title": "3D Speculation",
-			"content": "Instead of simply playing with price over time like most crypto, we've added volume to the mix. Hodl finally might be a good long-term idea. <i>(Instead of why you're down 50%)</i>"
+			"title": "المضاربة ثلاثية الأبعاد",
+			"content": "بدلا من اللعب ببساطة مع السعر بمرور الوقت مثل معظم العملات التشفيرية ، قمنا بإضافة حجم التداول إلى هذا المزيج. أخيرا قد تكون استراتيجية الإمساك فكرة جيدة على المدى الطويل. <i> (بدلاً من أن الانخفاض بنسبة 50٪) </ i>"
 		},
 		{
-			"title": "Decentralized, designed to run forever.",
-			"content": "The entire system is completely without human interaction. It's self governed, executed by the collective Ethereum blockchain. Masternodes even add a per-user profitable expansion system, allowing the contract to run as long as there's interested players, or really dedicated spammers."
+			"title": "اللامركزية ، مصممة للعمل للأبد.",
+			"content": "النظام بأكمله يعمل دون تفاعل بشري. إنه حكم ذاتي ، يتم تنفيذه بواسطة بلوكتشين الإثيريوم الجماعي. كما تضيف العقد الرئيسية نظام توسع مربح لكل مستخدم ، مما يسمح بتشغيل العقد طالما أن هناك لاعبين مهتمين ، أو مرسلي الرسائل غير المرغوب فيها."
 		},
 		{
-			"title": "Merciful Volume-Based Rewards",
-			"content": "Is bitcoin crashing? Crypto rise and falls got you burnt out? Our contract is designed to be a smart place to have your ethereum generate value whenever there's trading volume. You can sit back and worry about other things, like the fall of western civilization."
+			"title": "مكافآت رحيمة على أساس حجم التداول ",
+			"content": "هل تحطم البيتكوين؟ هل أحرقك ارتفاع وانخفاض العملات المشفرة؟ تم تصميم عقدنا ليكون مكانًا ذكيًا ليتمكّنك من إنشاء قيمة من الإثيريوم لديك طالما كان هناك تداول. يمكنك الجلوس والقلق بشأن أشياء أخرى ، مثل سقوط الحضارة الغربية."
 		}
 	],
 	"socials": {
