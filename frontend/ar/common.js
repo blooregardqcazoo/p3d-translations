@@ -155,11 +155,11 @@
 		}
 	],
 	"socials": {
-		"title": "Share Win, Share Loss"
+		"title": "حصة الفوز ، وحصة الخسارة"
 	},
 	"features": {
-		"title": "Guide to Success",
-		"sub": "<i>Smart-</i>Gaming <i>smart-</i>tips from a <i>smart-</i>Pyramid <i>smart-</i>meme <i>smart-</i>coin.",
+		"title": "دليل النجاح",
+		"sub": "<i>الذكي</i> اللعب <i>ذكية</i> نصائح من <i>ذكي</i> هرم <i>ذكي</i> ميم <i>ذكية</i> عملة.",
 		"points": [{
 				"title": "Acquire",
 				"content": "What else was this step going to be?"
